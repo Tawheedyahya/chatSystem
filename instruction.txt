@@ -1,0 +1,9 @@
+step1:cp .env.example .env (in our terminal) database_name=chatsystem (create databse in MySQL )
+//create a pusher account go to google and search pusher and go to to app setting (enable client events)
+step 2:go to app keys and note it add .env and put the app keys information
+step3:
+PUSHER_APP_ID=
+PUSHER_APP_KEY=
+PUSHER_APP_SECRET=
+PUSHER_APP_CLUSTER=
+add yours
